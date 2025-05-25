@@ -1,0 +1,40 @@
+.form-container {
+	background-color: rgb(174, 188, 209);
+	border-radius: 20px;
+	padding: 20px;
+	width: 350px;
+	margin: 30px auto;
+}
+
+label {
+	margin: 5px auto;
+	color: inherit;
+	display: block;
+	width: 250px;
+}
+
+input, textarea {
+	width: 250px;
+	padding: 5px;
+	margin: 0 auto;
+	margin-bottom: 5px;
+	display: block;
+}
+
+button {
+	background-color: black;
+	color: rgb(174, 188, 209);
+	font-size: 1.1rem;
+	padding: 10px;
+	border-radius: 10px;
+	display: block;
+	margin: 5px auto;
+}
+
+button:hover {
+	background-color: white;
+}
+
+h2 {
+	text-align: center;
+}
